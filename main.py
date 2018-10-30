@@ -1,5 +1,5 @@
 from tkinter import *
-sys.path.append('/Users/aratikulkarni/Desktop/xyz/python-mega/book')
+sys.path.append('/python-mega/book')
 import backend
 
 def get_selected_row(event):
